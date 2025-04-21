@@ -1,7 +1,7 @@
-node_modules
+node_modules/
 .env
-build
-dist
-logs
+build/
+dist/
+logs/
 *.log
-coverage
+coverage/
